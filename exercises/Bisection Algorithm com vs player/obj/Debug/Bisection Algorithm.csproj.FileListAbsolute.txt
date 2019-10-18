@@ -1,0 +1,14 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm\bin\Debug\Bisection Algorithm.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm\bin\Debug\Bisection Algorithm.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm\bin\Debug\Bisection Algorithm.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm\obj\Debug\Bisection Algorithm.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm\obj\Debug\Bisection Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm\obj\Debug\Bisection Algorithm.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm\obj\Debug\Bisection Algorithm.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm com vs player\bin\Debug\Bisection Algorithm.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm com vs player\bin\Debug\Bisection Algorithm.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm com vs player\bin\Debug\Bisection Algorithm.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm com vs player\obj\Debug\Bisection Algorithm.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm com vs player\obj\Debug\Bisection Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm com vs player\obj\Debug\Bisection Algorithm.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorithm com vs player\obj\Debug\Bisection Algorithm.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bisection Algorithm", "Bisection Algorithm.csproj", "{E37B837D-B909-44F1-B6D1-900A2D3BB194}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37B837D-B909-44F1-B6D1-900A2D3BB194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37B837D-B909-44F1-B6D1-900A2D3BB194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37B837D-B909-44F1-B6D1-900A2D3BB194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37B837D-B909-44F1-B6D1-900A2D3BB194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5137D76-0F8A-4022-9D5E-4965B1711E5A}
+	EndGlobalSection
+EndGlobal

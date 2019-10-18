@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 14\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 14\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 14\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 14\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 14\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 14\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 14\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.pdb

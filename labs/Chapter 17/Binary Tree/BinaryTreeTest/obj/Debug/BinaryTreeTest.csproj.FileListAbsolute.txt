@@ -1,0 +1,10 @@
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe.config
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\BinaryTreeTest\bin\Debug\BinaryTreeTest.pdb
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\BinaryTreeTest\bin\Debug\Binary Tree.dll
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\BinaryTreeTest\bin\Debug\Binary Tree.pdb
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csprojAssemblyReference.cache
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csproj.CopyComplete
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\BinaryTreeTest\obj\Debug\BinaryTreeTest.exe
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\BinaryTreeTest\obj\Debug\BinaryTreeTest.pdb

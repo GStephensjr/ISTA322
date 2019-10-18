@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <style>
+        #mainDiv {
+            padding: 20px;
+            border: solid medium black;
+            font-size: 20pt;
+            font-family: sans-serif;
+            background-color: #DDDDDD;
+        }
+        h1
+        {
+            color: #ff0000;
+            background-color: #aaaaaa;
+        }
+        .product{
+            background-color: #ffffff;
+            padding: 12px;
+
+        }
+    </style>
+</head>
+<body>
+    <div id="mainDiv">        
+            @RenderBody()
+        </div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 15\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 15\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 15\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\Chapter 15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.pdb

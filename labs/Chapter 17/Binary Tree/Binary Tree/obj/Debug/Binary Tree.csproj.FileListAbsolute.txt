@@ -1,0 +1,6 @@
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\Binary Tree\bin\Debug\Binary Tree.dll
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\Binary Tree\bin\Debug\Binary Tree.pdb
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\Binary Tree\obj\Debug\Binary Tree.csprojAssemblyReference.cache
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\Binary Tree\obj\Debug\Binary Tree.csproj.CoreCompileInputs.cache
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\Binary Tree\obj\Debug\Binary Tree.dll
+C:\Users\WWStudent\Desktop\MSSA Working\Binary Tree\Binary Tree\obj\Debug\Binary Tree.pdb

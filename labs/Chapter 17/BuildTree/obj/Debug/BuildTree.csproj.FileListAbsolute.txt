@@ -1,0 +1,10 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\BuildTree\bin\Debug\BuildTree.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\BuildTree\bin\Debug\BuildTree.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\BuildTree\bin\Debug\BuildTree.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\BuildTree\bin\Debug\Binary Tree.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\BuildTree\bin\Debug\Binary Tree.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\BuildTree\obj\Debug\BuildTree.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\BuildTree\obj\Debug\BuildTree.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\BuildTree\obj\Debug\BuildTree.csproj.CopyComplete
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\BuildTree\obj\Debug\BuildTree.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\labs\BuildTree\obj\Debug\BuildTree.pdb

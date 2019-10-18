@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorith Player vs Cpu\bin\Debug\Bisection Algorith Player vs Cpu.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorith Player vs Cpu\bin\Debug\Bisection Algorith Player vs Cpu.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorith Player vs Cpu\bin\Debug\Bisection Algorith Player vs Cpu.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorith Player vs Cpu\obj\Debug\Bisection Algorith Player vs Cpu.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorith Player vs Cpu\obj\Debug\Bisection Algorith Player vs Cpu.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorith Player vs Cpu\obj\Debug\Bisection Algorith Player vs Cpu.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA322\exercises\Bisection Algorith Player vs Cpu\obj\Debug\Bisection Algorith Player vs Cpu.pdb

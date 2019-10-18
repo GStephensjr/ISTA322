@@ -1,0 +1,14 @@
+C:\Users\Gregory\source\repos\cssbs-ex06\bin\Debug\cssbs-ex06.exe.config
+C:\Users\Gregory\source\repos\cssbs-ex06\bin\Debug\cssbs-ex06.exe
+C:\Users\Gregory\source\repos\cssbs-ex06\bin\Debug\cssbs-ex06.pdb
+C:\Users\Gregory\source\repos\cssbs-ex06\obj\Debug\cssbs-ex06.csprojAssemblyReference.cache
+C:\Users\Gregory\source\repos\cssbs-ex06\obj\Debug\cssbs-ex06.csproj.CoreCompileInputs.cache
+C:\Users\Gregory\source\repos\cssbs-ex06\obj\Debug\cssbs-ex06.exe
+C:\Users\Gregory\source\repos\cssbs-ex06\obj\Debug\cssbs-ex06.pdb
+C:\Users\Grego\Downloads\cssbs-ex06\bin\Debug\cssbs-ex06.exe.config
+C:\Users\Grego\Downloads\cssbs-ex06\bin\Debug\cssbs-ex06.exe
+C:\Users\Grego\Downloads\cssbs-ex06\bin\Debug\cssbs-ex06.pdb
+C:\Users\Grego\Downloads\cssbs-ex06\obj\Debug\cssbs-ex06.csprojAssemblyReference.cache
+C:\Users\Grego\Downloads\cssbs-ex06\obj\Debug\cssbs-ex06.csproj.CoreCompileInputs.cache
+C:\Users\Grego\Downloads\cssbs-ex06\obj\Debug\cssbs-ex06.exe
+C:\Users\Grego\Downloads\cssbs-ex06\obj\Debug\cssbs-ex06.pdb

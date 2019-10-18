@@ -1,0 +1,20 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @ViewBag.Hello MSSA (from the view)
+        <br />
+        The time is @DateTime.Now.Hour:@DateTime.Now.Minute
+        <h2>WE'RE GUNNA JAM Y'ALL</h2>
+        <p>tell all ya boys</p>
+        <a asp-action="RsvpForm" style="color: lightseagreen; background-color: paleturquoise;">RSVP Now</a>
+    </div>
+</body>
+</html>
